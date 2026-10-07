@@ -16,9 +16,9 @@ var request = require('request');
 var getYoutubeID = require('get-youtube-id');
 var fetchVideoInfo = require('youtube-info');
 
-var yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4";// لاتغيره <<
+var yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4"; // DON'T CHANGE
 var prefix = '$';
-var discord_token = "NDM5NDI3MzU3MTc1MTg1NDA4.Dcm9tQ.ibtgOD1gkObS5_09R3dFK8QXGVM";
+var discord_token = "?";
 client.login(discord_token);
 /*
 ////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\
